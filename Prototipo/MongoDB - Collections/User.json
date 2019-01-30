@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5c0e74f8f16c2f046fee81e0"},"Name":"Angelo","Surname":"D'Alfonso","Username":"Angeloo","Password":"Angelo123","Age":{"$numberInt":"13"},"Edificio":"5c0ebd0952ea6b02855b02e1","Ruolo":"Gestore citta","Edifici":["Coppito 1","Amiternum"]}
+{"_id":{"$oid":"5c3f347e8d3eea048f2702b5"},"Name":"Alessandro","Surname":"Di Matteo","Username":"Alessandro","Password":"Alessandro123","Age":{"$numberInt":"21"},"Edificio":"Coppito 1","Ruolo":"Gestore edificio"}

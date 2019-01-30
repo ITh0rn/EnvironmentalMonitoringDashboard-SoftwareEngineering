@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="rootPane" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="422.0" prefWidth="638.0" style="-fx-background-color: #56637c;" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.DashBoardController">
+   <children>
+      <TableView fx:id="Table" layoutX="14.0" layoutY="47.0" onMouseClicked="#clickItem" prefHeight="358.0" prefWidth="468.0" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="156.0" AnchorPane.topAnchor="47.0">
+        <columns>
+          <TableColumn fx:id="IDColumn" prefWidth="174.0" text="ID" />
+          <TableColumn fx:id="NumberColumn" prefWidth="56.0" text="Numero" />
+            <TableColumn fx:id="ValueColumn" prefWidth="65.0" text="Valore" />
+            <TableColumn fx:id="DataColumn" prefWidth="172.0" text="Orario" />
+        </columns>
+      </TableView>
+      <Button fx:id="modificaButton" layoutX="490.0" layoutY="131.0" mnemonicParsing="false" onAction="#modifica" prefHeight="27.0" prefWidth="134.0" text="MODIFICA" AnchorPane.rightAnchor="13.600000000000023" AnchorPane.topAnchor="131.0" />
+      <TextField fx:id="max" layoutX="504.0" layoutY="92.0" prefHeight="26.0" prefWidth="44.0" AnchorPane.rightAnchor="90.0" AnchorPane.topAnchor="92.0" />
+      <TextField fx:id="min" layoutX="567.0" layoutY="92.0" prefHeight="26.0" prefWidth="44.0" AnchorPane.rightAnchor="27.0" AnchorPane.topAnchor="92.0" />
+      <Label layoutX="513.0" layoutY="71.0" text="MAX" textFill="WHITE" AnchorPane.rightAnchor="99.4" AnchorPane.topAnchor="71.00000000000003" />
+      <Label layoutX="577.0" layoutY="71.0" text="MIN" textFill="WHITE" AnchorPane.rightAnchor="37.799999999999955" AnchorPane.topAnchor="71.0" />
+      <Label layoutX="507.0" layoutY="47.0" text="Modifica Parametri" textFill="WHITE" AnchorPane.rightAnchor="30.200000000000045" AnchorPane.topAnchor="47.0" />
+      <Button fx:id="logoutButton" layoutX="528.0" layoutY="378.0" mnemonicParsing="false" onAction="#logout" text="LOGOUT" AnchorPane.bottomAnchor="17.0" AnchorPane.rightAnchor="49.0" />
+      <Label layoutX="141.0" layoutY="14.0" prefHeight="17.0" prefWidth="215.0" text="BENVENUTO NEL SISTEMA" textFill="WHITE" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,649 @@
+testRobot/D3/java-json.jar TestClassSimulator
+Thread normal priority
+Thread normal priority
+Thread high Priority
+Thread high Priority
+{"SensorNumber":107005,"Temperatura":"24°","ID":"a8c0b61bfeb443cb9f7bf88c026a627f Normal"}
+Thread normal priority
+Thread high Priority
+{"SensorNumber":32805,"Temperatura":"24°","ID":"c903021151374cbd9b455138474649ec Normal"}
+Thread normal priority
+Thread high Priority
+Thread normal priority
+Thread normal priority
+{"SensorNumber":67135,"Temperatura":"25°","ID":"f8335fb65049410399c8cdedd79385ae Normal"}
+Thread high Priority
+Thread high Priority
+{"SensorNumber":116502,"Temperatura":"23°","ID":"4a6c4052d87145699e2144b3421b94d2 Normal"}
+Thread normal priority
+Thread normal priority
+{"SensorNumber":49297,"Temperatura":"20°","ID":"9e8296e18aba4869b15e5a3394e90a16 Normal"}
+Thread high Priority
+Thread high Priority
+{"SensorNumber":75694,"Temperatura":"23°","ID":"d76528b6504a499e835c7ed899c5feba Normal"}
+{"SensorNumber":34280,"Temperatura":"18°","ID":"e80ffdd41e1d47519a81f27eab060a31 Normal"}
+{"SensorNumber":113860,"Temperatura":"25°","ID":"0124984416a945d691f8ffe2d63fbbe1 Normal"}
+Thread normal priority
+Thread normal priority
+{"SensorNumber":67159,"Temperatura":"24°","ID":"b53bf5f12950468d96fb6eb14a42a795 Normal"}
+Thread high Priority
+Thread high Priority
+{"SensorNumber":27142,"Temperatura":"23°","ID":"bca9d113bbe3473b9260fc422c9f0a6e Normal"}
+{"SensorNumber":148968,"Temperatura":"19°","ID":"9867245b0fc944e1af6f37a949de819c Normal"}
+{"SensorNumber":130348,"Temperatura":"22°","ID":"29cbc4577cf44987a34b9e06f6cd7aba Normal"}
+{"SensorNumber":42790,"Temperatura":"24°","ID":"30c49dab780b4812b16be6dea9796d78 Normal"}
+{"SensorNumber":6132,"Temperatura":"24°","ID":"cf6c333d2b2a4b47adfd48e24229ddb4 Normal"}
+{"SensorNumber":111095,"Temperatura":"29°","ID":"13c997251d7043908ee7320001ab4aaa Normal"}
+Error: Sensore num= 111095's out of range
+{"SensorNumber":111095,"Temperatura":"26°","ID":"13c997251d7043908ee7320001ab4aaa High"}
+{"SensorNumber":80377,"Temperatura":"19°","ID":"a31169284d2c40ec804099f09322d99d Normal"}
+{"SensorNumber":111095,"Temperatura":"25°","ID":"13c997251d7043908ee7320001ab4aaa High"}
+{"SensorNumber":111095,"Temperatura":"19°","ID":"13c997251d7043908ee7320001ab4aaa High"}
+{"SensorNumber":75098,"Temperatura":"18°","ID":"2d97f904f97240ceb4d9d26b487934bc Normal"}
+{"SensorNumber":21056,"Temperatura":"21°","ID":"1b2ab3f34cf44c679778e410639e9600 Normal"}
+{"SensorNumber":2332,"Temperatura":"29°","ID":"f84f637092ab44a89424880cc165c530 Normal"}
+Error: Sensore num= 2332's out of range
+{"SensorNumber":2332,"Temperatura":"20°","ID":"f84f637092ab44a89424880cc165c530 High"}
+{"SensorNumber":98431,"Temperatura":"18°","ID":"cd718cbf2c5a4cfe811579e2fa386e0e Normal"}
+{"SensorNumber":2332,"Temperatura":"23°","ID":"f84f637092ab44a89424880cc165c530 High"}
+{"SensorNumber":132591,"Temperatura":"18°","ID":"d6bcc5a1b0014745a030e68baf87de19 Normal"}
+{"SensorNumber":2332,"Temperatura":"28°","ID":"f84f637092ab44a89424880cc165c530 High"}
+{"SensorNumber":88708,"Temperatura":"20°","ID":"523d011c9859485097b2ad3ebb7f96a6 Normal"}
+{"SensorNumber":75169,"Temperatura":"23°","ID":"3c68ad1834c947f689a0e316fc61c1a9 Normal"}
+{"SensorNumber":71332,"Temperatura":"29°","ID":"d52c9415d92346eb99f16d1590cc6c08 Normal"}
+Error: Sensore num= 71332's out of range
+{"SensorNumber":71332,"Temperatura":"26°","ID":"d52c9415d92346eb99f16d1590cc6c08 High"}
+{"SensorNumber":32636,"Temperatura":"22°","ID":"249d166e64214badb083aae652a4f104 Normal"}
+{"SensorNumber":71332,"Temperatura":"28°","ID":"d52c9415d92346eb99f16d1590cc6c08 High"}
+{"SensorNumber":75709,"Temperatura":"25°","ID":"483fdfaf061c4883bc17a7f8ce73e668 Normal"}
+{"SensorNumber":71332,"Temperatura":"23°","ID":"d52c9415d92346eb99f16d1590cc6c08 High"}
+{"SensorNumber":9096,"Temperatura":"22°","ID":"d639f0d9a17f4d849d8d623efcb8a0ae Normal"}
+{"SensorNumber":146472,"Temperatura":"26°","ID":"7ae5fc58eee94a2eabf115571dbbdb4c Normal"}
+Error: Sensore num= 146472's out of range
+{"SensorNumber":73597,"Temperatura":"26°","ID":"a1de837a67904d4a94f1d84ac2d10f95 Normal"}
+Error: Sensore num= 73597's out of range
+{"SensorNumber":146472,"Temperatura":"28°","ID":"7ae5fc58eee94a2eabf115571dbbdb4c High"}
+{"SensorNumber":73597,"Temperatura":"26°","ID":"a1de837a67904d4a94f1d84ac2d10f95 High"}
+{"SensorNumber":44003,"Temperatura":"23°","ID":"2d28fcc0c82d40bcb6dadf538ebc63a2 Normal"}
+{"SensorNumber":146472,"Temperatura":"23°","ID":"7ae5fc58eee94a2eabf115571dbbdb4c High"}
+{"SensorNumber":73597,"Temperatura":"20°","ID":"a1de837a67904d4a94f1d84ac2d10f95 High"}
+{"SensorNumber":3230,"Temperatura":"24°","ID":"994bbe6d19c54e90af09b76a85e12cc4 Normal"}
+{"SensorNumber":146472,"Temperatura":"20°","ID":"7ae5fc58eee94a2eabf115571dbbdb4c High"}
+{"SensorNumber":73597,"Temperatura":"20°","ID":"a1de837a67904d4a94f1d84ac2d10f95 High"}
+{"SensorNumber":43133,"Temperatura":"25°","ID":"49915c3a338748758b967dd95c96f7af Normal"}
+{"SensorNumber":52854,"Temperatura":"27°","ID":"f888a7baf27f43e0bcbe27aec31b0d87 Normal"}
+Error: Sensore num= 52854's out of range
+{"SensorNumber":136715,"Temperatura":"27°","ID":"a802c2d269234162a45c32c391e50954 Normal"}
+Error: Sensore num= 136715's out of range
+{"SensorNumber":52854,"Temperatura":"29°","ID":"f888a7baf27f43e0bcbe27aec31b0d87 High"}
+{"SensorNumber":136715,"Temperatura":"21°","ID":"a802c2d269234162a45c32c391e50954 High"}
+{"SensorNumber":115890,"Temperatura":"29°","ID":"b76014776b9e42d89e6d3deecbb9018f Normal"}
+Error: Sensore num= 115890's out of range
+{"SensorNumber":115890,"Temperatura":"24°","ID":"b76014776b9e42d89e6d3deecbb9018f High"}
+{"SensorNumber":52854,"Temperatura":"27°","ID":"f888a7baf27f43e0bcbe27aec31b0d87 High"}
+{"SensorNumber":136715,"Temperatura":"18°","ID":"a802c2d269234162a45c32c391e50954 High"}
+{"SensorNumber":37298,"Temperatura":"18°","ID":"ae9fb74a0e2b49c7907c9086ed1d5d07 Normal"}
+{"SensorNumber":52854,"Temperatura":"19°","ID":"f888a7baf27f43e0bcbe27aec31b0d87 High"}
+{"SensorNumber":115890,"Temperatura":"23°","ID":"b76014776b9e42d89e6d3deecbb9018f High"}
+{"SensorNumber":136715,"Temperatura":"20°","ID":"a802c2d269234162a45c32c391e50954 High"}
+{"SensorNumber":115890,"Temperatura":"22°","ID":"b76014776b9e42d89e6d3deecbb9018f High"}
+{"SensorNumber":28775,"Temperatura":"22°","ID":"4f8db952bcab4e5e8c4f0e0f16e18f58 Normal"}
+{"SensorNumber":15480,"Temperatura":"29°","ID":"5b169c707c5746efab2da7220a4398a6 Normal"}
+Error: Sensore num= 15480's out of range
+{"SensorNumber":13349,"Temperatura":"28°","ID":"b2a791148bce44019e6d74da041b4bd2 Normal"}
+Error: Sensore num= 13349's out of range
+{"SensorNumber":15480,"Temperatura":"19°","ID":"5b169c707c5746efab2da7220a4398a6 High"}
+{"SensorNumber":13349,"Temperatura":"27°","ID":"b2a791148bce44019e6d74da041b4bd2 High"}
+{"SensorNumber":41836,"Temperatura":"27°","ID":"ee3b02d39cc743758efd9e93632e70a5 Normal"}
+Error: Sensore num= 41836's out of range
+{"SensorNumber":41836,"Temperatura":"26°","ID":"ee3b02d39cc743758efd9e93632e70a5 High"}
+{"SensorNumber":15480,"Temperatura":"21°","ID":"5b169c707c5746efab2da7220a4398a6 High"}
+{"SensorNumber":13349,"Temperatura":"21°","ID":"b2a791148bce44019e6d74da041b4bd2 High"}
+{"SensorNumber":26735,"Temperatura":"19°","ID":"a069d36049164aa09fb147454f17c6b5 Normal"}
+{"SensorNumber":15480,"Temperatura":"20°","ID":"5b169c707c5746efab2da7220a4398a6 High"}
+{"SensorNumber":41836,"Temperatura":"21°","ID":"ee3b02d39cc743758efd9e93632e70a5 High"}
+{"SensorNumber":13349,"Temperatura":"23°","ID":"b2a791148bce44019e6d74da041b4bd2 High"}
+{"SensorNumber":41836,"Temperatura":"29°","ID":"ee3b02d39cc743758efd9e93632e70a5 High"}
+{"SensorNumber":118015,"Temperatura":"23°","ID":"6517403522b34613b66d3240bb1b9860 Normal"}
+{"SensorNumber":53264,"Temperatura":"18°","ID":"8af8dfd5bac94e9d9f41e896893e6a8e Normal"}
+{"SensorNumber":119987,"Temperatura":"20°","ID":"9dc90d358fe94a3ba378444b91443306 Normal"}
+{"SensorNumber":95069,"Temperatura":"21°","ID":"fed05b7549b645deaab2270ec077bf23 Normal"}
+{"SensorNumber":128984,"Temperatura":"22°","ID":"e5c9c17305834c41bb90fc6ef7f8c666 Normal"}
+{"SensorNumber":85103,"Temperatura":"27°","ID":"e19e45b9158843d09bbf3a0c11863452 Normal"}
+Error: Sensore num= 85103's out of range
+{"SensorNumber":42290,"Temperatura":"29°","ID":"8e92d1fd840f409fae1b3884ceec8a12 Normal"}
+Error: Sensore num= 42290's out of range
+{"SensorNumber":45994,"Temperatura":"18°","ID":"5731b81e1acb47d1a76cd7f31e9543e9 Normal"}
+{"SensorNumber":85103,"Temperatura":"20°","ID":"e19e45b9158843d09bbf3a0c11863452 High"}
+{"SensorNumber":42290,"Temperatura":"18°","ID":"8e92d1fd840f409fae1b3884ceec8a12 High"}
+{"SensorNumber":47868,"Temperatura":"24°","ID":"ccbe0d830d324102ae4a7a4e2c4e06d9 Normal"}
+{"SensorNumber":85103,"Temperatura":"21°","ID":"e19e45b9158843d09bbf3a0c11863452 High"}
+{"SensorNumber":42290,"Temperatura":"22°","ID":"8e92d1fd840f409fae1b3884ceec8a12 High"}
+{"SensorNumber":30499,"Temperatura":"19°","ID":"02ccf69850cb4885b0eb011ca8d5c01f Normal"}
+{"SensorNumber":42290,"Temperatura":"27°","ID":"8e92d1fd840f409fae1b3884ceec8a12 High"}
+{"SensorNumber":85103,"Temperatura":"21°","ID":"e19e45b9158843d09bbf3a0c11863452 High"}
+{"SensorNumber":76819,"Temperatura":"22°","ID":"b0bbc956d4b64a069db48671cd4343f4 Normal"}
+{"SensorNumber":105834,"Temperatura":"25°","ID":"132be9529efe4085a087e93c53221b4c Normal"}
+{"SensorNumber":32218,"Temperatura":"23°","ID":"5d077afa79e145d9b5e8b2d6b70b8c6d Normal"}
+{"SensorNumber":65431,"Temperatura":"20°","ID":"bf87acf8ebb74970a217e686bb3178a7 Normal"}
+{"SensorNumber":100620,"Temperatura":"27°","ID":"0c67ca29d617402cadd3ebb7e782f127 Normal"}
+Error: Sensore num= 100620's out of range
+{"SensorNumber":100620,"Temperatura":"25°","ID":"0c67ca29d617402cadd3ebb7e782f127 High"}
+{"SensorNumber":100620,"Temperatura":"26°","ID":"0c67ca29d617402cadd3ebb7e782f127 High"}
+{"SensorNumber":100620,"Temperatura":"26°","ID":"0c67ca29d617402cadd3ebb7e782f127 High"}
+{"SensorNumber":27870,"Temperatura":"26°","ID":"cbde94679b9a499c8bf336c72519e654 Normal"}
+Error: Sensore num= 27870's out of range
+{"SensorNumber":112976,"Temperatura":"21°","ID":"305b9e86e09e4cfbba2c1be3b16dc946 Normal"}
+{"SensorNumber":12529,"Temperatura":"23°","ID":"f966cc16ae5b4cc58eb1fed8996d2c7e Normal"}
+{"SensorNumber":27870,"Temperatura":"19°","ID":"cbde94679b9a499c8bf336c72519e654 High"}
+{"SensorNumber":62637,"Temperatura":"27°","ID":"5ab309434c784b70b64a5a095985bb43 Normal"}
+Error: Sensore num= 62637's out of range
+{"SensorNumber":27870,"Temperatura":"29°","ID":"cbde94679b9a499c8bf336c72519e654 High"}
+{"SensorNumber":62637,"Temperatura":"25°","ID":"5ab309434c784b70b64a5a095985bb43 High"}
+{"SensorNumber":54023,"Temperatura":"20°","ID":"6cf6694df0b74a4dbb3159e996d1c127 Normal"}
+{"SensorNumber":62637,"Temperatura":"26°","ID":"5ab309434c784b70b64a5a095985bb43 High"}
+{"SensorNumber":27870,"Temperatura":"22°","ID":"cbde94679b9a499c8bf336c72519e654 High"}
+{"SensorNumber":62637,"Temperatura":"29°","ID":"5ab309434c784b70b64a5a095985bb43 High"}
+{"SensorNumber":49144,"Temperatura":"28°","ID":"236393f7780c47c4ae228f722aadf45d Normal"}
+Error: Sensore num= 49144's out of range
+{"SensorNumber":12650,"Temperatura":"20°","ID":"d6a7fafb45194b0fad5f93dd95a2898e Normal"}
+{"SensorNumber":22303,"Temperatura":"20°","ID":"b979d0eb009147d78a69407919d53ea5 Normal"}
+{"SensorNumber":49144,"Temperatura":"27°","ID":"236393f7780c47c4ae228f722aadf45d High"}
+{"SensorNumber":41643,"Temperatura":"22°","ID":"31e5ce60439c438cbdfd391cd1e9ee7e Normal"}
+{"SensorNumber":49144,"Temperatura":"19°","ID":"236393f7780c47c4ae228f722aadf45d High"}
+{"SensorNumber":115149,"Temperatura":"20°","ID":"c0c5f15d85b54c498effb6bdd5e2cf9f Normal"}
+{"SensorNumber":49144,"Temperatura":"28°","ID":"236393f7780c47c4ae228f722aadf45d High"}
+{"SensorNumber":133527,"Temperatura":"28°","ID":"d9c56a85a5b5422a945077abf454d4f6 Normal"}
+Error: Sensore num= 133527's out of range
+{"SensorNumber":73400,"Temperatura":"24°","ID":"f8b5720318d04e3d95d725fd5567d4ea Normal"}
+{"SensorNumber":133899,"Temperatura":"29°","ID":"c04413b36b334833ba694d6b5a26fdb0 Normal"}
+Error: Sensore num= 133899's out of range
+{"SensorNumber":133527,"Temperatura":"28°","ID":"d9c56a85a5b5422a945077abf454d4f6 High"}
+{"SensorNumber":133899,"Temperatura":"24°","ID":"c04413b36b334833ba694d6b5a26fdb0 High"}
+{"SensorNumber":23017,"Temperatura":"23°","ID":"cd8c19491d34488586fc033582fbe6b3 Normal"}
+{"SensorNumber":133527,"Temperatura":"24°","ID":"d9c56a85a5b5422a945077abf454d4f6 High"}
+{"SensorNumber":133899,"Temperatura":"23°","ID":"c04413b36b334833ba694d6b5a26fdb0 High"}
+{"SensorNumber":49757,"Temperatura":"22°","ID":"caf40831db4449beab7c79836b166a54 Normal"}
+{"SensorNumber":133527,"Temperatura":"19°","ID":"d9c56a85a5b5422a945077abf454d4f6 High"}
+{"SensorNumber":133899,"Temperatura":"20°","ID":"c04413b36b334833ba694d6b5a26fdb0 High"}
+{"SensorNumber":139495,"Temperatura":"19°","ID":"d46fe9df68824c79afa25ca221edf326 Normal"}
+{"SensorNumber":9676,"Temperatura":"25°","ID":"f7d6fb6ba7774fc4b986a0e43865e9e0 Normal"}
+{"SensorNumber":26409,"Temperatura":"18°","ID":"8a2a6d58085048b4997318aae3213505 Normal"}
+{"SensorNumber":99378,"Temperatura":"29°","ID":"f3406f90ba5043dfb53cfa410226de4d Normal"}
+Error: Sensore num= 99378's out of range
+{"SensorNumber":99378,"Temperatura":"29°","ID":"f3406f90ba5043dfb53cfa410226de4d High"}
+{"SensorNumber":77008,"Temperatura":"25°","ID":"3159a8bb2112465592e538c7b4b817b7 Normal"}
+{"SensorNumber":99378,"Temperatura":"19°","ID":"f3406f90ba5043dfb53cfa410226de4d High"}
+{"SensorNumber":99378,"Temperatura":"22°","ID":"f3406f90ba5043dfb53cfa410226de4d High"}
+{"SensorNumber":9538,"Temperatura":"21°","ID":"5450ae0bc4ed4eb4a251841cee2f8eff Normal"}
+{"SensorNumber":67147,"Temperatura":"21°","ID":"dcdbe5b0adbd438490657da6dcf079d0 Normal"}
+{"SensorNumber":43987,"Temperatura":"24°","ID":"4fd0c2d0b7b34db58fd4a1a2491464fd Normal"}
+{"SensorNumber":143466,"Temperatura":"29°","ID":"e6e3a89cdbd24090be311b00821ecce6 Normal"}
+Error: Sensore num= 143466's out of range
+{"SensorNumber":143466,"Temperatura":"26°","ID":"e6e3a89cdbd24090be311b00821ecce6 High"}
+{"SensorNumber":95400,"Temperatura":"18°","ID":"477ce23aa8ef47f1976fc519db41dc44 Normal"}
+{"SensorNumber":143466,"Temperatura":"20°","ID":"e6e3a89cdbd24090be311b00821ecce6 High"}
+{"SensorNumber":143466,"Temperatura":"22°","ID":"e6e3a89cdbd24090be311b00821ecce6 High"}
+{"SensorNumber":139853,"Temperatura":"24°","ID":"75ec4077f3dd486ba364234ccf821716 Normal"}
+{"SensorNumber":146125,"Temperatura":"24°","ID":"599cdc9992864771bac955fe33180ad6 Normal"}
+{"SensorNumber":41904,"Temperatura":"18°","ID":"351fd7c5486b42938486fa23f8d2460e Normal"}
+{"SensorNumber":58951,"Temperatura":"29°","ID":"6851f0c6756941779fd36307136f830b Normal"}
+Error: Sensore num= 58951's out of range
+{"SensorNumber":58951,"Temperatura":"19°","ID":"6851f0c6756941779fd36307136f830b High"}
+{"SensorNumber":43799,"Temperatura":"23°","ID":"1e2b1100d2924367bb9d8e3325dc05f0 Normal"}
+{"SensorNumber":58951,"Temperatura":"29°","ID":"6851f0c6756941779fd36307136f830b High"}
+{"SensorNumber":58951,"Temperatura":"21°","ID":"6851f0c6756941779fd36307136f830b High"}
+{"SensorNumber":83340,"Temperatura":"26°","ID":"bcad9a21b68a4c61ab1298f45068f6e4 Normal"}
+Error: Sensore num= 83340's out of range
+{"SensorNumber":1709,"Temperatura":"27°","ID":"340d969c3d53429cb74758cf4ae32b54 Normal"}
+Error: Sensore num= 1709's out of range
+{"SensorNumber":14017,"Temperatura":"18°","ID":"a1eb30a9897c426095fc7841441c3a4b Normal"}
+{"SensorNumber":1709,"Temperatura":"19°","ID":"340d969c3d53429cb74758cf4ae32b54 High"}
+{"SensorNumber":83340,"Temperatura":"29°","ID":"bcad9a21b68a4c61ab1298f45068f6e4 High"}
+{"SensorNumber":8751,"Temperatura":"29°","ID":"b1091b5e85ac4f078168af3e54ffe9f9 Normal"}
+Error: Sensore num= 8751's out of range
+{"SensorNumber":1709,"Temperatura":"21°","ID":"340d969c3d53429cb74758cf4ae32b54 High"}
+{"SensorNumber":8751,"Temperatura":"24°","ID":"b1091b5e85ac4f078168af3e54ffe9f9 High"}
+{"SensorNumber":83340,"Temperatura":"26°","ID":"bcad9a21b68a4c61ab1298f45068f6e4 High"}
+{"SensorNumber":45194,"Temperatura":"21°","ID":"7e619ac01c234a1ab2ad854447947440 Normal"}
+{"SensorNumber":1709,"Temperatura":"19°","ID":"340d969c3d53429cb74758cf4ae32b54 High"}
+{"SensorNumber":8751,"Temperatura":"27°","ID":"b1091b5e85ac4f078168af3e54ffe9f9 High"}
+{"SensorNumber":83340,"Temperatura":"29°","ID":"bcad9a21b68a4c61ab1298f45068f6e4 High"}
+{"SensorNumber":8751,"Temperatura":"23°","ID":"b1091b5e85ac4f078168af3e54ffe9f9 High"}
+{"SensorNumber":60451,"Temperatura":"25°","ID":"03c2e0074fab45dc8675562a4a796fe9 Normal"}
+{"SensorNumber":20571,"Temperatura":"19°","ID":"746face50a80495ea2f6618c81b846fa Normal"}
+{"SensorNumber":20443,"Temperatura":"19°","ID":"49ee4eddb3af444e960cca744f5bcc4d Normal"}
+{"SensorNumber":122120,"Temperatura":"23°","ID":"c4478a7f011a4b9087eba321e44d5841 Normal"}
+{"SensorNumber":72218,"Temperatura":"29°","ID":"05e2a1f82cde4bd3852ce2fda8fd8db4 Normal"}
+Error: Sensore num= 72218's out of range
+{"SensorNumber":72218,"Temperatura":"29°","ID":"05e2a1f82cde4bd3852ce2fda8fd8db4 High"}
+{"SensorNumber":72218,"Temperatura":"21°","ID":"05e2a1f82cde4bd3852ce2fda8fd8db4 High"}
+{"SensorNumber":72218,"Temperatura":"24°","ID":"05e2a1f82cde4bd3852ce2fda8fd8db4 High"}
+{"SensorNumber":32946,"Temperatura":"21°","ID":"32e3b07b8e9344bcb91c4490c84b9a56 Normal"}
+{"SensorNumber":54522,"Temperatura":"23°","ID":"69d17990944646a2b587616198b13efe Normal"}
+{"SensorNumber":20666,"Temperatura":"20°","ID":"309ab34a37d746baab3d0635c761c7fc Normal"}
+{"SensorNumber":31444,"Temperatura":"27°","ID":"77610d8ba693483f8916835c6282153f Normal"}
+Error: Sensore num= 31444's out of range
+{"SensorNumber":31444,"Temperatura":"27°","ID":"77610d8ba693483f8916835c6282153f High"}
+{"SensorNumber":29470,"Temperatura":"22°","ID":"b02a34e691c34de09db04d2f38e059ef Normal"}
+{"SensorNumber":31444,"Temperatura":"28°","ID":"77610d8ba693483f8916835c6282153f High"}
+{"SensorNumber":31444,"Temperatura":"29°","ID":"77610d8ba693483f8916835c6282153f High"}
+{"SensorNumber":96668,"Temperatura":"24°","ID":"d7ee20b3cfce44dbbec619f85e9080e6 Normal"}
+{"SensorNumber":2176,"Temperatura":"18°","ID":"65be2148de6142a0b7d233a130ee4c59 Normal"}
+{"SensorNumber":69508,"Temperatura":"24°","ID":"08f59932c38c4ab18fc985f74eab9d14 Normal"}
+{"SensorNumber":5877,"Temperatura":"22°","ID":"476e3d19628b430ba64135b4e2a0dc0d Normal"}
+{"SensorNumber":71642,"Temperatura":"22°","ID":"7d2782d7a59442b4b611a41d749c8349 Normal"}
+{"SensorNumber":69382,"Temperatura":"18°","ID":"08c50fa63d184185b178152da627a2a7 Normal"}
+{"SensorNumber":24507,"Temperatura":"27°","ID":"0ec96dfc679f4bf5920a40980b627fd0 Normal"}
+Error: Sensore num= 24507's out of range
+{"SensorNumber":24507,"Temperatura":"18°","ID":"0ec96dfc679f4bf5920a40980b627fd0 High"}
+{"SensorNumber":94814,"Temperatura":"21°","ID":"3e418d22153e4d35aedca7fa25dc2baa Normal"}
+{"SensorNumber":24507,"Temperatura":"22°","ID":"0ec96dfc679f4bf5920a40980b627fd0 High"}
+{"SensorNumber":98800,"Temperatura":"22°","ID":"8c5cca06b94c4538b69f227693dc5a4c Normal"}
+{"SensorNumber":24507,"Temperatura":"22°","ID":"0ec96dfc679f4bf5920a40980b627fd0 High"}
+{"SensorNumber":107791,"Temperatura":"21°","ID":"4720f6b676634a0d915bdd0dcd9aed11 Normal"}
+{"SensorNumber":79604,"Temperatura":"20°","ID":"8caacd13bdd8473a9f8100d248dc4d4e Normal"}
+{"SensorNumber":111860,"Temperatura":"18°","ID":"8cbeb66be5d34eef91099e26eb8fa845 Normal"}
+{"SensorNumber":33283,"Temperatura":"25°","ID":"80b539048e604aee86e5855a896c3e5d Normal"}
+{"SensorNumber":1860,"Temperatura":"23°","ID":"57d3abad0109406daf060685fa9eedaf Normal"}
+{"SensorNumber":28727,"Temperatura":"24°","ID":"cba08f31042f48108c87f21758ec2c74 Normal"}
+{"SensorNumber":1271,"Temperatura":"27°","ID":"5409016daede40a3a211e69b3e0bcd00 Normal"}
+Error: Sensore num= 1271's out of range
+{"SensorNumber":23304,"Temperatura":"21°","ID":"325b880a3d824912a39bb087660eadf6 Normal"}
+{"SensorNumber":108069,"Temperatura":"18°","ID":"3b6e258eea8d47ac95c36f23e33703a5 Normal"}
+{"SensorNumber":1271,"Temperatura":"27°","ID":"5409016daede40a3a211e69b3e0bcd00 High"}
+{"SensorNumber":41495,"Temperatura":"29°","ID":"ff69314be56843dc85f4abb723719dab Normal"}
+Error: Sensore num= 41495's out of range
+{"SensorNumber":1271,"Temperatura":"24°","ID":"5409016daede40a3a211e69b3e0bcd00 High"}
+{"SensorNumber":41495,"Temperatura":"18°","ID":"ff69314be56843dc85f4abb723719dab High"}
+{"SensorNumber":100913,"Temperatura":"21°","ID":"d3652c2b75f84f6692a00e5b492c6132 Normal"}
+{"SensorNumber":1271,"Temperatura":"25°","ID":"5409016daede40a3a211e69b3e0bcd00 High"}
+{"SensorNumber":41495,"Temperatura":"29°","ID":"ff69314be56843dc85f4abb723719dab High"}
+{"SensorNumber":41495,"Temperatura":"20°","ID":"ff69314be56843dc85f4abb723719dab High"}
+{"SensorNumber":110254,"Temperatura":"27°","ID":"32a9aa63558d4d9690b2a357b9a704d2 Normal"}
+{"SensorNumber":40318,"Temperatura":"26°","ID":"90c20d80076448d181b91a4dfbe10c92 Normal"}
+Error: Sensore num= 110254's out of range
+Error: Sensore num= 40318's out of range
+{"SensorNumber":136399,"Temperatura":"18°","ID":"8adddf5af86f4821a5aed6325b945115 Normal"}
+{"SensorNumber":110254,"Temperatura":"21°","ID":"32a9aa63558d4d9690b2a357b9a704d2 High"}
+{"SensorNumber":40318,"Temperatura":"25°","ID":"90c20d80076448d181b91a4dfbe10c92 High"}
+{"SensorNumber":108130,"Temperatura":"22°","ID":"5c2e39341b9f40baac8837c1e8347b64 Normal"}
+{"SensorNumber":110254,"Temperatura":"24°","ID":"32a9aa63558d4d9690b2a357b9a704d2 High"}
+{"SensorNumber":40318,"Temperatura":"28°","ID":"90c20d80076448d181b91a4dfbe10c92 High"}
+{"SensorNumber":43107,"Temperatura":"27°","ID":"a01053f0d8174dd8aa9ea822845096e7 Normal"}
+Error: Sensore num= 43107's out of range
+{"SensorNumber":43107,"Temperatura":"24°","ID":"a01053f0d8174dd8aa9ea822845096e7 High"}
+{"SensorNumber":110254,"Temperatura":"20°","ID":"32a9aa63558d4d9690b2a357b9a704d2 High"}
+{"SensorNumber":40318,"Temperatura":"24°","ID":"90c20d80076448d181b91a4dfbe10c92 High"}
+{"SensorNumber":43107,"Temperatura":"22°","ID":"a01053f0d8174dd8aa9ea822845096e7 High"}
+{"SensorNumber":43107,"Temperatura":"27°","ID":"a01053f0d8174dd8aa9ea822845096e7 High"}
+{"SensorNumber":101587,"Temperatura":"23°","ID":"96ad9deb899749c9bcaf198138b6c67d Normal"}
+{"SensorNumber":85719,"Temperatura":"22°","ID":"d683af38274e445e9f0f98beda4f3db5 Normal"}
+{"SensorNumber":92593,"Temperatura":"27°","ID":"262478b7a6d141f79331c3d8088c541a Normal"}
+Error: Sensore num= 92593's out of range
+{"SensorNumber":92593,"Temperatura":"24°","ID":"262478b7a6d141f79331c3d8088c541a High"}
+{"SensorNumber":47623,"Temperatura":"25°","ID":"e495e7a6cc52452885da55a4f5e274c7 Normal"}
+{"SensorNumber":92593,"Temperatura":"19°","ID":"262478b7a6d141f79331c3d8088c541a High"}
+{"SensorNumber":145175,"Temperatura":"27°","ID":"daf2ce311def46e6a163cd25c2f95cbc Normal"}
+Error: Sensore num= 145175's out of range
+{"SensorNumber":145175,"Temperatura":"19°","ID":"daf2ce311def46e6a163cd25c2f95cbc High"}
+{"SensorNumber":92593,"Temperatura":"23°","ID":"262478b7a6d141f79331c3d8088c541a High"}
+{"SensorNumber":145175,"Temperatura":"24°","ID":"daf2ce311def46e6a163cd25c2f95cbc High"}
+{"SensorNumber":145175,"Temperatura":"21°","ID":"daf2ce311def46e6a163cd25c2f95cbc High"}
+{"SensorNumber":33016,"Temperatura":"20°","ID":"dc415d194afd4d4fb02b9d7be1e17ca1 Normal"}
+{"SensorNumber":74327,"Temperatura":"22°","ID":"1ba414401bff497c9d279a2b11c02463 Normal"}
+{"SensorNumber":69896,"Temperatura":"22°","ID":"e9f8a290cbd5422ba4dfdd4aeee9328e Normal"}
+{"SensorNumber":139977,"Temperatura":"27°","ID":"3b574763211d47f0a9c46234c19980dd Normal"}
+Error: Sensore num= 139977's out of range
+{"SensorNumber":139977,"Temperatura":"27°","ID":"3b574763211d47f0a9c46234c19980dd High"}
+{"SensorNumber":74553,"Temperatura":"22°","ID":"e8a1925baf2948ec8d104b4fa614e115 Normal"}
+{"SensorNumber":139977,"Temperatura":"24°","ID":"3b574763211d47f0a9c46234c19980dd High"}
+{"SensorNumber":139977,"Temperatura":"25°","ID":"3b574763211d47f0a9c46234c19980dd High"}
+{"SensorNumber":139319,"Temperatura":"23°","ID":"2b50256bf07d45669e69a3c2cf9c5af6 Normal"}
+{"SensorNumber":124113,"Temperatura":"18°","ID":"10c9d596e86f4cdcbad2f514dc9ad1bc Normal"}
+{"SensorNumber":61580,"Temperatura":"19°","ID":"ba80c5872fbf4025971ae980cc5c58ac Normal"}
+{"SensorNumber":16925,"Temperatura":"28°","ID":"832538ad9b814f8d92f274f3ffeae581 Normal"}
+Error: Sensore num= 16925's out of range
+{"SensorNumber":16925,"Temperatura":"25°","ID":"832538ad9b814f8d92f274f3ffeae581 High"}
+{"SensorNumber":83095,"Temperatura":"20°","ID":"1d2451697a2f41deb49e285c259bca73 Normal"}
+{"SensorNumber":16925,"Temperatura":"29°","ID":"832538ad9b814f8d92f274f3ffeae581 High"}
+{"SensorNumber":16925,"Temperatura":"27°","ID":"832538ad9b814f8d92f274f3ffeae581 High"}
+{"SensorNumber":75757,"Temperatura":"19°","ID":"6b86a284472c4fc58ebc2494edffde24 Normal"}
+{"SensorNumber":20646,"Temperatura":"25°","ID":"c151416803474c869dae38379a3e059e Normal"}
+{"SensorNumber":84186,"Temperatura":"28°","ID":"7a6f1d2dcffc4ad5824b979b83e64575 Normal"}
+Error: Sensore num= 84186's out of range
+{"SensorNumber":84186,"Temperatura":"18°","ID":"7a6f1d2dcffc4ad5824b979b83e64575 High"}
+{"SensorNumber":58819,"Temperatura":"21°","ID":"d10ac23934a348dcb8f341b1bd22532d Normal"}
+{"SensorNumber":84186,"Temperatura":"26°","ID":"7a6f1d2dcffc4ad5824b979b83e64575 High"}
+{"SensorNumber":145356,"Temperatura":"19°","ID":"613326e61dbf4da088ddc760cf976d72 Normal"}
+{"SensorNumber":84186,"Temperatura":"28°","ID":"7a6f1d2dcffc4ad5824b979b83e64575 High"}
+{"SensorNumber":101759,"Temperatura":"25°","ID":"984118feda924743b5199146da72a25e Normal"}
+{"SensorNumber":69110,"Temperatura":"21°","ID":"e38ee037435043a7999bb22f6dfbed8a Normal"}
+{"SensorNumber":66802,"Temperatura":"25°","ID":"f0f4a443af3643a7869d4b6da9d1fca0 Normal"}
+{"SensorNumber":125501,"Temperatura":"26°","ID":"5e7824a9370d409fb4c9a7f8a736b991 Normal"}
+Error: Sensore num= 125501's out of range
+{"SensorNumber":125501,"Temperatura":"26°","ID":"5e7824a9370d409fb4c9a7f8a736b991 High"}
+{"SensorNumber":95690,"Temperatura":"21°","ID":"b4feeb4b1a6f4d7492317f5ecdc95b5f Normal"}
+{"SensorNumber":125501,"Temperatura":"20°","ID":"5e7824a9370d409fb4c9a7f8a736b991 High"}
+{"SensorNumber":125501,"Temperatura":"20°","ID":"5e7824a9370d409fb4c9a7f8a736b991 High"}
+{"SensorNumber":134160,"Temperatura":"25°","ID":"38771dc023354e049fcdb2d201002bb2 Normal"}
+{"SensorNumber":48686,"Temperatura":"19°","ID":"4cf785aac23b48c18ba6d73587b6f947 Normal"}
+{"SensorNumber":61067,"Temperatura":"25°","ID":"486dbfa494c84cb68b716a7c6278561e Normal"}
+{"SensorNumber":39852,"Temperatura":"25°","ID":"791428d7524842388a8010ff9b81f12c Normal"}
+{"SensorNumber":55960,"Temperatura":"22°","ID":"f0b684ec754c42c4851211e97f806e39 Normal"}
+{"SensorNumber":98011,"Temperatura":"29°","ID":"fb1eacae2f504d05929f902922ef1d35 Normal"}
+{"SensorNumber":51329,"Temperatura":"25°","ID":"e17fa885df714ce88e443faf83238aca Normal"}
+Error: Sensore num= 98011's out of range
+{"SensorNumber":60709,"Temperatura":"21°","ID":"d60331b703cd408a961a4b076638095a Normal"}
+{"SensorNumber":98011,"Temperatura":"20°","ID":"fb1eacae2f504d05929f902922ef1d35 High"}
+{"SensorNumber":116036,"Temperatura":"19°","ID":"da423dc2b86b47cbb9a1cbe3f583e8a8 Normal"}
+{"SensorNumber":98011,"Temperatura":"19°","ID":"fb1eacae2f504d05929f902922ef1d35 High"}
+{"SensorNumber":79761,"Temperatura":"23°","ID":"f6188b33456741adb0519e32fe0c0c7a Normal"}
+{"SensorNumber":98011,"Temperatura":"18°","ID":"fb1eacae2f504d05929f902922ef1d35 High"}
+{"SensorNumber":83136,"Temperatura":"23°","ID":"a48a8a5e6b784f929cdc8d92ad0a3211 Normal"}
+{"SensorNumber":16471,"Temperatura":"26°","ID":"cedcac1c5ee1412aa85a889263bc155b Normal"}
+Error: Sensore num= 16471's out of range
+{"SensorNumber":2076,"Temperatura":"19°","ID":"f894f5daa6884b808cb59f346edb1649 Normal"}
+{"SensorNumber":16471,"Temperatura":"21°","ID":"cedcac1c5ee1412aa85a889263bc155b High"}
+{"SensorNumber":18278,"Temperatura":"29°","ID":"230484e1d4454e05b409e485a42d0856 Normal"}
+Error: Sensore num= 18278's out of range
+{"SensorNumber":16471,"Temperatura":"23°","ID":"cedcac1c5ee1412aa85a889263bc155b High"}
+{"SensorNumber":18278,"Temperatura":"21°","ID":"230484e1d4454e05b409e485a42d0856 High"}
+{"SensorNumber":48839,"Temperatura":"28°","ID":"863b1e2652864171928cc0842cdac2b8 Normal"}
+Error: Sensore num= 48839's out of range
+{"SensorNumber":48839,"Temperatura":"25°","ID":"863b1e2652864171928cc0842cdac2b8 High"}
+{"SensorNumber":18278,"Temperatura":"23°","ID":"230484e1d4454e05b409e485a42d0856 High"}
+{"SensorNumber":16471,"Temperatura":"19°","ID":"cedcac1c5ee1412aa85a889263bc155b High"}
+{"SensorNumber":48839,"Temperatura":"27°","ID":"863b1e2652864171928cc0842cdac2b8 High"}
+{"SensorNumber":18278,"Temperatura":"29°","ID":"230484e1d4454e05b409e485a42d0856 High"}
+{"SensorNumber":48839,"Temperatura":"18°","ID":"863b1e2652864171928cc0842cdac2b8 High"}
+{"SensorNumber":144844,"Temperatura":"18°","ID":"e46113d6cb704a10a837c73aab0d77b5 Normal"}
+{"SensorNumber":23313,"Temperatura":"21°","ID":"05d6506fdc2e4d76bbf85583f182e1c7 Normal"}
+{"SensorNumber":65559,"Temperatura":"18°","ID":"6ab6b6e8077a4582ad1c1fadf700396b Normal"}
+{"SensorNumber":130146,"Temperatura":"21°","ID":"dede262c3b2e4675b7dd5da9a7dccd65 Normal"}
+{"SensorNumber":64079,"Temperatura":"26°","ID":"34fc32d8a1834e5da727c7c7466bb10d Normal"}
+Error: Sensore num= 64079's out of range
+{"SensorNumber":64079,"Temperatura":"21°","ID":"34fc32d8a1834e5da727c7c7466bb10d High"}
+{"SensorNumber":64079,"Temperatura":"19°","ID":"34fc32d8a1834e5da727c7c7466bb10d High"}
+{"SensorNumber":64079,"Temperatura":"28°","ID":"34fc32d8a1834e5da727c7c7466bb10d High"}
+{"SensorNumber":129941,"Temperatura":"26°","ID":"5aa2d3d64e0e4edda930982c43044dfa Normal"}
+Error: Sensore num= 129941's out of range
+{"SensorNumber":146285,"Temperatura":"24°","ID":"50b21196dd0e4999ac743a3877d7a65b Normal"}
+{"SensorNumber":125060,"Temperatura":"29°","ID":"4629396d0cae43638094d7a95c151c7e Normal"}
+Error: Sensore num= 125060's out of range
+{"SensorNumber":129941,"Temperatura":"23°","ID":"5aa2d3d64e0e4edda930982c43044dfa High"}
+{"SensorNumber":125060,"Temperatura":"27°","ID":"4629396d0cae43638094d7a95c151c7e High"}
+{"SensorNumber":141145,"Temperatura":"25°","ID":"e314eccd1e61409dae0d6405f9c88223 Normal"}
+{"SensorNumber":129941,"Temperatura":"27°","ID":"5aa2d3d64e0e4edda930982c43044dfa High"}
+{"SensorNumber":125060,"Temperatura":"23°","ID":"4629396d0cae43638094d7a95c151c7e High"}
+{"SensorNumber":76488,"Temperatura":"24°","ID":"1d8d1e6abfdd4135abe33e5f651b54bb Normal"}
+{"SensorNumber":129941,"Temperatura":"20°","ID":"5aa2d3d64e0e4edda930982c43044dfa High"}
+{"SensorNumber":125060,"Temperatura":"19°","ID":"4629396d0cae43638094d7a95c151c7e High"}
+{"SensorNumber":46328,"Temperatura":"21°","ID":"4102cf95d8514082a784f9cf23e50f10 Normal"}
+{"SensorNumber":125017,"Temperatura":"20°","ID":"4aaaaebe3c784e68891e9ff4e3194bf2 Normal"}
+{"SensorNumber":92994,"Temperatura":"29°","ID":"d8b0f6c959334a2e975f60b41efe37af Normal"}
+Error: Sensore num= 92994's out of range
+{"SensorNumber":111882,"Temperatura":"24°","ID":"2f0ac6f813814e6bb65d28e5d4184037 Normal"}
+{"SensorNumber":92994,"Temperatura":"23°","ID":"d8b0f6c959334a2e975f60b41efe37af High"}
+{"SensorNumber":111908,"Temperatura":"24°","ID":"7546da4c8d174b419ab4d9d6b71b58d3 Normal"}
+{"SensorNumber":92994,"Temperatura":"28°","ID":"d8b0f6c959334a2e975f60b41efe37af High"}
+{"SensorNumber":92994,"Temperatura":"20°","ID":"d8b0f6c959334a2e975f60b41efe37af High"}
+{"SensorNumber":58749,"Temperatura":"21°","ID":"8257399d9d7b42a5a9bab6493bf5d4ca Normal"}
+{"SensorNumber":5606,"Temperatura":"29°","ID":"7d32737bcf98401b87fb0fc5ecbed24b Normal"}
+Error: Sensore num= 5606's out of range
+{"SensorNumber":73400,"Temperatura":"26°","ID":"48be20aa2dd74811934ea54b60052113 Normal"}
+Error: Sensore num= 73400's out of range
+{"SensorNumber":5606,"Temperatura":"21°","ID":"7d32737bcf98401b87fb0fc5ecbed24b High"}
+{"SensorNumber":114929,"Temperatura":"25°","ID":"8f6d0599423c435688b15a7d73fbdbae Normal"}
+{"SensorNumber":73400,"Temperatura":"19°","ID":"48be20aa2dd74811934ea54b60052113 High"}
+{"SensorNumber":5606,"Temperatura":"25°","ID":"7d32737bcf98401b87fb0fc5ecbed24b High"}
+{"SensorNumber":71205,"Temperatura":"26°","ID":"a97a1e087be64f86a8f298b8e9b3496f Normal"}
+Error: Sensore num= 71205's out of range
+{"SensorNumber":73400,"Temperatura":"29°","ID":"48be20aa2dd74811934ea54b60052113 High"}
+{"SensorNumber":71205,"Temperatura":"21°","ID":"a97a1e087be64f86a8f298b8e9b3496f High"}
+{"SensorNumber":5606,"Temperatura":"24°","ID":"7d32737bcf98401b87fb0fc5ecbed24b High"}
+{"SensorNumber":73400,"Temperatura":"23°","ID":"48be20aa2dd74811934ea54b60052113 High"}
+{"SensorNumber":71205,"Temperatura":"19°","ID":"a97a1e087be64f86a8f298b8e9b3496f High"}
+{"SensorNumber":71205,"Temperatura":"29°","ID":"a97a1e087be64f86a8f298b8e9b3496f High"}
+{"SensorNumber":82688,"Temperatura":"23°","ID":"a83b4c1f64ae45caa6515fcde0abb546 Normal"}
+{"SensorNumber":42705,"Temperatura":"27°","ID":"cfa298d664ad478d9ffbf750d4665b0f Normal"}
+Error: Sensore num= 42705's out of range
+{"SensorNumber":126517,"Temperatura":"23°","ID":"4b00cef9c41a42efba9e1008eaa3f260 Normal"}
+{"SensorNumber":42705,"Temperatura":"21°","ID":"cfa298d664ad478d9ffbf750d4665b0f High"}
+{"SensorNumber":147660,"Temperatura":"29°","ID":"ec76be4d60644c619c4216227f314ab0 Normal"}
+Error: Sensore num= 147660's out of range
+{"SensorNumber":147660,"Temperatura":"29°","ID":"ec76be4d60644c619c4216227f314ab0 High"}
+{"SensorNumber":42705,"Temperatura":"29°","ID":"cfa298d664ad478d9ffbf750d4665b0f High"}
+{"SensorNumber":65465,"Temperatura":"21°","ID":"f090299a976f45c3ba58e02e0ccf08ef Normal"}
+{"SensorNumber":42705,"Temperatura":"19°","ID":"cfa298d664ad478d9ffbf750d4665b0f High"}
+{"SensorNumber":147660,"Temperatura":"27°","ID":"ec76be4d60644c619c4216227f314ab0 High"}
+{"SensorNumber":147660,"Temperatura":"27°","ID":"ec76be4d60644c619c4216227f314ab0 High"}
+{"SensorNumber":59358,"Temperatura":"29°","ID":"bb249747f8194669838311c4e2e0f91a Normal"}
+Error: Sensore num= 59358's out of range
+{"SensorNumber":69495,"Temperatura":"20°","ID":"286718cce93643c59e29c8e109d5f7ea Normal"}
+{"SensorNumber":143068,"Temperatura":"22°","ID":"0c8b518d7f264ebb8cb51b69608fbc13 Normal"}
+{"SensorNumber":59358,"Temperatura":"18°","ID":"bb249747f8194669838311c4e2e0f91a High"}
+{"SensorNumber":148083,"Temperatura":"25°","ID":"dc82e8a0a6d044bcb255705af2ac41f1 Normal"}
+{"SensorNumber":59358,"Temperatura":"24°","ID":"bb249747f8194669838311c4e2e0f91a High"}
+{"SensorNumber":4077,"Temperatura":"26°","ID":"33c135f653694fd0a16c68c9535f57ff Normal"}
+Error: Sensore num= 4077's out of range
+{"SensorNumber":4077,"Temperatura":"22°","ID":"33c135f653694fd0a16c68c9535f57ff High"}
+{"SensorNumber":59358,"Temperatura":"21°","ID":"bb249747f8194669838311c4e2e0f91a High"}
+{"SensorNumber":4077,"Temperatura":"29°","ID":"33c135f653694fd0a16c68c9535f57ff High"}
+{"SensorNumber":4077,"Temperatura":"18°","ID":"33c135f653694fd0a16c68c9535f57ff High"}
+{"SensorNumber":79369,"Temperatura":"29°","ID":"7f5058fc97724271902fc0f5e2f88445 Normal"}
+{"SensorNumber":139587,"Temperatura":"23°","ID":"83c84679a43d4aed90ac4644941ca0d2 Normal"}
+Error: Sensore num= 79369's out of range
+{"SensorNumber":54391,"Temperatura":"22°","ID":"8464055e83844dbeb91be79de4448366 Normal"}
+{"SensorNumber":79369,"Temperatura":"28°","ID":"7f5058fc97724271902fc0f5e2f88445 High"}
+{"SensorNumber":118551,"Temperatura":"27°","ID":"063c75ba571f47908d9b2e698ded671d Normal"}
+Error: Sensore num= 118551's out of range
+{"SensorNumber":118551,"Temperatura":"27°","ID":"063c75ba571f47908d9b2e698ded671d High"}
+{"SensorNumber":79369,"Temperatura":"18°","ID":"7f5058fc97724271902fc0f5e2f88445 High"}
+{"SensorNumber":118796,"Temperatura":"18°","ID":"61f2cfea36ee4e65a48a9c7afaac6e61 Normal"}
+{"SensorNumber":79369,"Temperatura":"28°","ID":"7f5058fc97724271902fc0f5e2f88445 High"}
+{"SensorNumber":118551,"Temperatura":"27°","ID":"063c75ba571f47908d9b2e698ded671d High"}
+{"SensorNumber":118551,"Temperatura":"25°","ID":"063c75ba571f47908d9b2e698ded671d High"}
+{"SensorNumber":120251,"Temperatura":"28°","ID":"72a2ca6d77834058b42c4022fac527d4 Normal"}
+{"SensorNumber":110976,"Temperatura":"22°","ID":"9bf254984bf342af8e76a0ffbff729bb Normal"}
+Error: Sensore num= 120251's out of range
+{"SensorNumber":120251,"Temperatura":"25°","ID":"72a2ca6d77834058b42c4022fac527d4 High"}
+{"SensorNumber":85437,"Temperatura":"18°","ID":"1e84fea2b6e641c08d92683251677d59 Normal"}
+{"SensorNumber":120251,"Temperatura":"27°","ID":"72a2ca6d77834058b42c4022fac527d4 High"}
+{"SensorNumber":115147,"Temperatura":"20°","ID":"bce398269167431f84b4d86293b9511b Normal"}
+{"SensorNumber":120251,"Temperatura":"24°","ID":"72a2ca6d77834058b42c4022fac527d4 High"}
+{"SensorNumber":122521,"Temperatura":"25°","ID":"fb24a27d0d84474791a24bdd4598b7b1 Normal"}
+{"SensorNumber":17198,"Temperatura":"21°","ID":"1aa30a8a5b26442298774170a55224b4 Normal"}
+{"SensorNumber":93371,"Temperatura":"27°","ID":"3a35c0fec3464dbb88266617e5a03a56 Normal"}
+Error: Sensore num= 93371's out of range
+{"SensorNumber":93371,"Temperatura":"27°","ID":"3a35c0fec3464dbb88266617e5a03a56 High"}
+{"SensorNumber":121571,"Temperatura":"26°","ID":"d4884252414a4d88b53f2310e4b6aa92 Normal"}
+Error: Sensore num= 121571's out of range
+{"SensorNumber":121571,"Temperatura":"23°","ID":"d4884252414a4d88b53f2310e4b6aa92 High"}
+{"SensorNumber":44623,"Temperatura":"24°","ID":"62013f5a1f22492c9897bf8fd018b07e Normal"}
+{"SensorNumber":93371,"Temperatura":"29°","ID":"3a35c0fec3464dbb88266617e5a03a56 High"}
+{"SensorNumber":121571,"Temperatura":"21°","ID":"d4884252414a4d88b53f2310e4b6aa92 High"}
+{"SensorNumber":138509,"Temperatura":"22°","ID":"2e511f3fea584c87a1acd099d631fe3b Normal"}
+{"SensorNumber":93371,"Temperatura":"24°","ID":"3a35c0fec3464dbb88266617e5a03a56 High"}
+{"SensorNumber":121571,"Temperatura":"21°","ID":"d4884252414a4d88b53f2310e4b6aa92 High"}
+{"SensorNumber":75665,"Temperatura":"28°","ID":"6e804c713e0646c9972adabb5aa82b0a Normal"}
+Error: Sensore num= 75665's out of range
+{"SensorNumber":66266,"Temperatura":"28°","ID":"f0ba7de229844faa84737ec95088fe24 Normal"}
+Error: Sensore num= 66266's out of range
+{"SensorNumber":66266,"Temperatura":"21°","ID":"f0ba7de229844faa84737ec95088fe24 High"}
+{"SensorNumber":137190,"Temperatura":"18°","ID":"8015d8c47e704d09a6ef273d5ab88d27 Normal"}
+{"SensorNumber":75665,"Temperatura":"27°","ID":"6e804c713e0646c9972adabb5aa82b0a High"}
+{"SensorNumber":51151,"Temperatura":"19°","ID":"6766e59f3ff545b5b1e249b66c0e3212 Normal"}
+{"SensorNumber":66266,"Temperatura":"21°","ID":"f0ba7de229844faa84737ec95088fe24 High"}
+{"SensorNumber":75665,"Temperatura":"19°","ID":"6e804c713e0646c9972adabb5aa82b0a High"}
+{"SensorNumber":99696,"Temperatura":"21°","ID":"b5036c702bd7440d95a19492089d903b Normal"}
+{"SensorNumber":66266,"Temperatura":"26°","ID":"f0ba7de229844faa84737ec95088fe24 High"}
+{"SensorNumber":75665,"Temperatura":"27°","ID":"6e804c713e0646c9972adabb5aa82b0a High"}
+{"SensorNumber":118575,"Temperatura":"25°","ID":"cbd4126113914d02be6f480f8d01a14a Normal"}
+{"SensorNumber":41978,"Temperatura":"20°","ID":"cca2ff088290452a8a71c4b8098ce1a5 Normal"}
+{"SensorNumber":103648,"Temperatura":"26°","ID":"9784919ceff74d93bfb73607cfae782a Normal"}
+Error: Sensore num= 103648's out of range
+{"SensorNumber":103648,"Temperatura":"28°","ID":"9784919ceff74d93bfb73607cfae782a High"}
+{"SensorNumber":20950,"Temperatura":"18°","ID":"2eff69223b0e43c6bc6a3645b8deae64 Normal"}
+{"SensorNumber":103648,"Temperatura":"26°","ID":"9784919ceff74d93bfb73607cfae782a High"}
+{"SensorNumber":38274,"Temperatura":"23°","ID":"9a1ca757a7f642e1afe36837fb4de618 Normal"}
+{"SensorNumber":103648,"Temperatura":"25°","ID":"9784919ceff74d93bfb73607cfae782a High"}
+{"SensorNumber":22108,"Temperatura":"23°","ID":"825943a6c92f4d3eb759cca4fbd613af Normal"}
+{"SensorNumber":122098,"Temperatura":"23°","ID":"0dcd42d510a7474991f006552a2f06d1 Normal"}
+{"SensorNumber":120230,"Temperatura":"19°","ID":"f10a6d849a1e4f2284bb0b29ccf47e9a Normal"}
+{"SensorNumber":106473,"Temperatura":"22°","ID":"e3e0ed78fd764c44b20348fd63c47a52 Normal"}
+{"SensorNumber":40966,"Temperatura":"18°","ID":"744aae23f87b45c294837b17aff38ff1 Normal"}
+{"SensorNumber":131274,"Temperatura":"29°","ID":"ddb449e463a649dfb18805ea3b6d59fd Normal"}
+{"SensorNumber":29823,"Temperatura":"18°","ID":"55b84b25484347fd929cc498a8207e19 Normal"}
+Error: Sensore num= 131274's out of range
+{"SensorNumber":92032,"Temperatura":"25°","ID":"71b37e04af384bc3966ffaf910fc202f Normal"}
+{"SensorNumber":131274,"Temperatura":"19°","ID":"ddb449e463a649dfb18805ea3b6d59fd High"}
+{"SensorNumber":103981,"Temperatura":"20°","ID":"0eed7a7e5f5a41c6ac3e276561ddf2f2 Normal"}
+{"SensorNumber":131274,"Temperatura":"18°","ID":"ddb449e463a649dfb18805ea3b6d59fd High"}
+{"SensorNumber":21535,"Temperatura":"23°","ID":"e0bc14c1a4c6464a8ec7b157df0d1384 Normal"}
+{"SensorNumber":131274,"Temperatura":"26°","ID":"ddb449e463a649dfb18805ea3b6d59fd High"}
+{"SensorNumber":123150,"Temperatura":"24°","ID":"c6249eda68a34dac8e2c6d5ee1154dd0 Normal"}
+{"SensorNumber":139521,"Temperatura":"18°","ID":"bb9a83417cfd4797b15e738d87cf203f Normal"}
+{"SensorNumber":27316,"Temperatura":"27°","ID":"474bee8111e14bafacf2404db94911c4 Normal"}
+Error: Sensore num= 27316's out of range
+{"SensorNumber":27316,"Temperatura":"18°","ID":"474bee8111e14bafacf2404db94911c4 High"}
+{"SensorNumber":136817,"Temperatura":"19°","ID":"42fdb96d8d234d28af3397f036ea123a Normal"}
+{"SensorNumber":27316,"Temperatura":"25°","ID":"474bee8111e14bafacf2404db94911c4 High"}
+{"SensorNumber":138926,"Temperatura":"27°","ID":"e8b4a8b8f5f348329c33e2bd916261a6 Normal"}
+Error: Sensore num= 138926's out of range
+{"SensorNumber":138926,"Temperatura":"19°","ID":"e8b4a8b8f5f348329c33e2bd916261a6 High"}
+{"SensorNumber":27316,"Temperatura":"21°","ID":"474bee8111e14bafacf2404db94911c4 High"}
+{"SensorNumber":138926,"Temperatura":"26°","ID":"e8b4a8b8f5f348329c33e2bd916261a6 High"}
+{"SensorNumber":138926,"Temperatura":"28°","ID":"e8b4a8b8f5f348329c33e2bd916261a6 High"}
+{"SensorNumber":46223,"Temperatura":"29°","ID":"4f25707018044f7da7055f4c86864cab Normal"}
+Error: Sensore num= 46223's out of range
+{"SensorNumber":122154,"Temperatura":"29°","ID":"2e746566739341d5bfae037b876f34fe Normal"}
+Error: Sensore num= 122154's out of range
+{"SensorNumber":50444,"Temperatura":"25°","ID":"2a132ff6a4f84ba5b0ffe817ce6c8d90 Normal"}
+{"SensorNumber":46223,"Temperatura":"26°","ID":"4f25707018044f7da7055f4c86864cab High"}
+{"SensorNumber":122154,"Temperatura":"23°","ID":"2e746566739341d5bfae037b876f34fe High"}
+{"SensorNumber":46763,"Temperatura":"18°","ID":"699337a3abb14064b0cda69adfe42ad6 Normal"}
+{"SensorNumber":46223,"Temperatura":"21°","ID":"4f25707018044f7da7055f4c86864cab High"}
+{"SensorNumber":122154,"Temperatura":"18°","ID":"2e746566739341d5bfae037b876f34fe High"}
+{"SensorNumber":95974,"Temperatura":"26°","ID":"76c849b4c2d64640b4fee37d99111d9b Normal"}
+Error: Sensore num= 95974's out of range
+{"SensorNumber":95974,"Temperatura":"28°","ID":"76c849b4c2d64640b4fee37d99111d9b High"}
+{"SensorNumber":122154,"Temperatura":"26°","ID":"2e746566739341d5bfae037b876f34fe High"}
+{"SensorNumber":46223,"Temperatura":"21°","ID":"4f25707018044f7da7055f4c86864cab High"}
+{"SensorNumber":95974,"Temperatura":"20°","ID":"76c849b4c2d64640b4fee37d99111d9b High"}
+{"SensorNumber":95974,"Temperatura":"24°","ID":"76c849b4c2d64640b4fee37d99111d9b High"}
+{"SensorNumber":69955,"Temperatura":"25°","ID":"d3a71286977d475392ae8b7f1d2f49c8 Normal"}
+{"SensorNumber":11687,"Temperatura":"20°","ID":"42c58da4fa7945898b4f19368ec09c48 Normal"}
+{"SensorNumber":57256,"Temperatura":"23°","ID":"38a0b1968ddf4937a462529b82717a8c Normal"}
+{"SensorNumber":44955,"Temperatura":"29°","ID":"ed6a9f237ece454b9d1df4d954402c60 Normal"}
+Error: Sensore num= 44955's out of range
+{"SensorNumber":44955,"Temperatura":"29°","ID":"ed6a9f237ece454b9d1df4d954402c60 High"}
+{"SensorNumber":128900,"Temperatura":"19°","ID":"9f5be44c73e54ec8a581e8fb032f0412 Normal"}
+{"SensorNumber":44955,"Temperatura":"26°","ID":"ed6a9f237ece454b9d1df4d954402c60 High"}
+{"SensorNumber":44955,"Temperatura":"18°","ID":"ed6a9f237ece454b9d1df4d954402c60 High"}
+{"SensorNumber":80824,"Temperatura":"28°","ID":"75c02d0f8abc4a1886064f3d9eb9f2e5 Normal"}
+Error: Sensore num= 80824's out of range
+{"SensorNumber":70168,"Temperatura":"24°","ID":"8fbe318187b94c63bf084d4bfbd86b04 Normal"}
+{"SensorNumber":74823,"Temperatura":"29°","ID":"e9f46d4d1c47461cbf4e988f3970886c Normal"}
+Error: Sensore num= 74823's out of range
+{"SensorNumber":80824,"Temperatura":"28°","ID":"75c02d0f8abc4a1886064f3d9eb9f2e5 High"}
+{"SensorNumber":74823,"Temperatura":"28°","ID":"e9f46d4d1c47461cbf4e988f3970886c High"}
+{"SensorNumber":8815,"Temperatura":"21°","ID":"4648db148b494060857c923f14822bb3 Normal"}
+{"SensorNumber":80824,"Temperatura":"21°","ID":"75c02d0f8abc4a1886064f3d9eb9f2e5 High"}
+{"SensorNumber":74823,"Temperatura":"29°","ID":"e9f46d4d1c47461cbf4e988f3970886c High"}
+{"SensorNumber":62570,"Temperatura":"25°","ID":"695135f2a3eb42278ff689f4e81c6a0a Normal"}
+{"SensorNumber":80824,"Temperatura":"19°","ID":"75c02d0f8abc4a1886064f3d9eb9f2e5 High"}
+{"SensorNumber":74823,"Temperatura":"22°","ID":"e9f46d4d1c47461cbf4e988f3970886c High"}
+{"SensorNumber":74976,"Temperatura":"29°","ID":"3e99085d93784883bdf96813485f7463 Normal"}
+{"SensorNumber":44500,"Temperatura":"26°","ID":"cb4a61f9026a4928aa82b688a9dfaf02 Normal"}
+Error: Sensore num= 44500's out of range
+Error: Sensore num= 74976's out of range
+{"SensorNumber":144005,"Temperatura":"18°","ID":"91a5e87a1d364a098be6e82dd2cbf0f0 Normal"}
+{"SensorNumber":44500,"Temperatura":"20°","ID":"cb4a61f9026a4928aa82b688a9dfaf02 High"}
+{"SensorNumber":74976,"Temperatura":"18°","ID":"3e99085d93784883bdf96813485f7463 High"}
+{"SensorNumber":19195,"Temperatura":"23°","ID":"d1a980c3fa234662b2d5dfd97bdbdabd Normal"}
+{"SensorNumber":74976,"Temperatura":"27°","ID":"3e99085d93784883bdf96813485f7463 High"}
+{"SensorNumber":44500,"Temperatura":"26°","ID":"cb4a61f9026a4928aa82b688a9dfaf02 High"}
+{"SensorNumber":120846,"Temperatura":"29°","ID":"1cd0a31ba8e644eead2a4beb3af23d69 Normal"}
+Error: Sensore num= 120846's out of range
+{"SensorNumber":120846,"Temperatura":"18°","ID":"1cd0a31ba8e644eead2a4beb3af23d69 High"}
+{"SensorNumber":74976,"Temperatura":"26°","ID":"3e99085d93784883bdf96813485f7463 High"}
+{"SensorNumber":44500,"Temperatura":"25°","ID":"cb4a61f9026a4928aa82b688a9dfaf02 High"}
+{"SensorNumber":120846,"Temperatura":"27°","ID":"1cd0a31ba8e644eead2a4beb3af23d69 High"}
+{"SensorNumber":120846,"Temperatura":"22°","ID":"1cd0a31ba8e644eead2a4beb3af23d69 High"}
+{"SensorNumber":92156,"Temperatura":"22°","ID":"24bd4a00ab5a4b03ab11fea265e8320d Normal"}
+{"SensorNumber":146034,"Temperatura":"29°","ID":"c61dcfabe008408799e4f7703726d717 Normal"}
+Error: Sensore num= 146034's out of range
+{"SensorNumber":99485,"Temperatura":"27°","ID":"0e93471e0a3c4e2880ce5350a0b2806c Normal"}
+Error: Sensore num= 99485's out of range
+{"SensorNumber":146034,"Temperatura":"21°","ID":"c61dcfabe008408799e4f7703726d717 High"}
+{"SensorNumber":99485,"Temperatura":"19°","ID":"0e93471e0a3c4e2880ce5350a0b2806c High"}
+{"SensorNumber":91866,"Temperatura":"29°","ID":"942e928ecac14dbb9237a2a94b5946e5 Normal"}
+Error: Sensore num= 91866's out of range
+{"SensorNumber":91866,"Temperatura":"27°","ID":"942e928ecac14dbb9237a2a94b5946e5 High"}
+{"SensorNumber":146034,"Temperatura":"28°","ID":"c61dcfabe008408799e4f7703726d717 High"}
+{"SensorNumber":99485,"Temperatura":"24°","ID":"0e93471e0a3c4e2880ce5350a0b2806c High"}
+{"SensorNumber":20480,"Temperatura":"26°","ID":"8a22c8a0259b405ca7451bc3d853bd1c Normal"}
+Error: Sensore num= 20480's out of range
+{"SensorNumber":91866,"Temperatura":"20°","ID":"942e928ecac14dbb9237a2a94b5946e5 High"}
+{"SensorNumber":20480,"Temperatura":"28°","ID":"8a22c8a0259b405ca7451bc3d853bd1c High"}
+{"SensorNumber":146034,"Temperatura":"21°","ID":"c61dcfabe008408799e4f7703726d717 High"}
+{"SensorNumber":99485,"Temperatura":"23°","ID":"0e93471e0a3c4e2880ce5350a0b2806c High"}
+{"SensorNumber":20480,"Temperatura":"21°","ID":"8a22c8a0259b405ca7451bc3d853bd1c High"}
+{"SensorNumber":91866,"Temperatura":"20°","ID":"942e928ecac14dbb9237a2a94b5946e5 High"}
+{"SensorNumber":20480,"Temperatura":"18°","ID":"8a22c8a0259b405ca7451bc3d853bd1c High"}
+{"SensorNumber":45190,"Temperatura":"18°","ID":"57981868badf4f00a62478dab4a42c40 Normal"}
+{"SensorNumber":22351,"Temperatura":"24°","ID":"90c8e61b6cb647d58947c5775d2e5fb3 Normal"}
+{"SensorNumber":98453,"Temperatura":"26°","ID":"a6848e95115a4847ae3b7164fd2ec9dd Normal"}
+Error: Sensore num= 98453's out of range
+{"SensorNumber":32564,"Temperatura":"22°","ID":"44844068421343bfaad59b397f7f1851 Normal"}
+{"SensorNumber":98453,"Temperatura":"26°","ID":"a6848e95115a4847ae3b7164fd2ec9dd High"}
+{"SensorNumber":90877,"Temperatura":"21°","ID":"c30cc00ca0a94a1f83ba8136f523bab4 Normal"}
+{"SensorNumber":98453,"Temperatura":"20°","ID":"a6848e95115a4847ae3b7164fd2ec9dd High"}
+{"SensorNumber":98453,"Temperatura":"29°","ID":"a6848e95115a4847ae3b7164fd2ec9dd High"}
+{"SensorNumber":46686,"Temperatura":"18°","ID":"347211baca974fa48ebd60efbf99c95f Normal"}
+{"SensorNumber":94424,"Temperatura":"18°","ID":"a9d1e5ef255944e0a878509330996d9d Normal"}
+{"SensorNumber":14,"Temperatura":"21°","ID":"63dcdba21d9149b1b50b4a444a99ace0 Normal"}
+{"SensorNumber":91327,"Temperatura":"26°","ID":"091fff7451064739b2d93e5c720b66d0 Normal"}
+Error: Sensore num= 91327's out of range
+{"SensorNumber":91327,"Temperatura":"27°","ID":"091fff7451064739b2d93e5c720b66d0 High"}
+{"SensorNumber":63145,"Temperatura":"18°","ID":"2efa285c857a40f68de866b1cf17aaef Normal"}
+{"SensorNumber":91327,"Temperatura":"27°","ID":"091fff7451064739b2d93e5c720b66d0 High"}
+{"SensorNumber":91327,"Temperatura":"18°","ID":"091fff7451064739b2d93e5c720b66d0 High"}
+{"SensorNumber":77612,"Temperatura":"23°","ID":"1988633d4b0f42ad82e2239148cd61dc Normal"}
+{"SensorNumber":64019,"Temperatura":"19°","ID":"c8eb94d9213740c5b698327dc7c29ee0 Normal"}
+{"SensorNumber":119820,"Temperatura":"21°","ID":"b4b042d482164f86b500e8c28f58c00f Normal"}
+{"SensorNumber":58655,"Temperatura":"18°","ID":"a4cc1d2522c441209d45824d2629fb6a Normal"}
+{"SensorNumber":133449,"Temperatura":"28°","ID":"d5b44d389c324bdc81c0e184abd0af3e Normal"}
+Error: Sensore num= 133449's out of range
+{"SensorNumber":133449,"Temperatura":"25°","ID":"d5b44d389c324bdc81c0e184abd0af3e High"}
+{"SensorNumber":133449,"Temperatura":"20°","ID":"d5b44d389c324bdc81c0e184abd0af3e High"}
+{"SensorNumber":133449,"Temperatura":"21°","ID":"d5b44d389c324bdc81c0e184abd0af3e High"}
+{"SensorNumber":25081,"Temperatura":"28°","ID":"b935a31757db4427bdb0f7a1016d7ff6 Normal"}
+Error: Sensore num= 25081's out of range
+{"SensorNumber":141680,"Temperatura":"22°","ID":"3775db14edc74e30b24896d01f710ae8 Normal"}
+{"SensorNumber":3287,"Temperatura":"22°","ID":"a6262c76deef4188863fac34ff06543b Normal"}
+{"SensorNumber":25081,"Temperatura":"27°","ID":"b935a31757db4427bdb0f7a1016d7ff6 High"}
+{"SensorNumber":27460,"Temperatura":"18°","ID":"6a16c031ee004fc9b43be1f9dc2138e8 Normal"}
+{"SensorNumber":25081,"Temperatura":"25°","ID":"b935a31757db4427bdb0f7a1016d7ff6 High"}
+{"SensorNumber":16042,"Temperatura":"24°","ID":"1029a3077b9a4877aa7b7b30e4409d7a Normal"}
+{"SensorNumber":25081,"Temperatura":"18°","ID":"b935a31757db4427bdb0f7a1016d7ff6 High"}
+{"SensorNumber":50044,"Temperatura":"24°","ID":"7ceec487054544579f99d77323263fb9 Normal"}
+{"SensorNumber":58924,"Temperatura":"24°","ID":"1eb6ec0e91f54d86855f8e609de82f94 Normal"}
+{"SensorNumber":125153,"Temperatura":"28°","ID":"512a939f8ef646c48f3629173a9812e5 Normal"}
+Error: Sensore num= 125153's out of range
+{"SensorNumber":125153,"Temperatura":"26°","ID":"512a939f8ef646c48f3629173a9812e5 High"}
+{"SensorNumber":2828,"Temperatura":"28°","ID":"38eac9baaf96430ebc2c0e97e813fa58 Normal"}
+Error: Sensore num= 2828's out of range
+{"SensorNumber":125153,"Temperatura":"26°","ID":"512a939f8ef646c48f3629173a9812e5 High"}
+{"SensorNumber":2828,"Temperatura":"19°","ID":"38eac9baaf96430ebc2c0e97e813fa58 High"}
+{"SensorNumber":118945,"Temperatura":"24°","ID":"6996d50e22e24daea73b9a19f18e6275 Normal"}
+{"SensorNumber":125153,"Temperatura":"24°","ID":"512a939f8ef646c48f3629173a9812e5 High"}
+{"SensorNumber":2828,"Temperatura":"18°","ID":"38eac9baaf96430ebc2c0e97e813fa58 High"}
+{"SensorNumber":2828,"Temperatura":"25°","ID":"38eac9baaf96430ebc2c0e97e813fa58 High"}
+{"SensorNumber":93762,"Temperatura":"18°","ID":"f081ffea5cac4fa4918660667a645823 Normal"}
+{"SensorNumber":49443,"Temperatura":"18°","ID":"ef1c0130279e4f87a3e789e523d6c295 Normal"}
+{"SensorNumber":4169,"Temperatura":"23°","ID":"1cf6878f11884c32a2c85e2662e75a7b Normal"}
+
+Process finished with exit code 130 (interrupted by signal 2: SIGINT)
+

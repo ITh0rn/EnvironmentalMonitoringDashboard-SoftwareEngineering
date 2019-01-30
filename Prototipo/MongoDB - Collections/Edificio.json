@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5c0ebd0952ea6b02855b02e1"},"Zona":"Via Vetoio","NumeroCivico":{"$numberInt":"13"},"NomeEdificio":"Coppito 1","Owner":"Alessandro"}
+{"_id":{"$oid":"5c3f4d45b7e8dd081033d15e"},"Zona":"Via Vetoio","NumeroCivico":{"$numberInt":"13"},"NomeEdificio":"Amiternum","Owner":"Davide"}
