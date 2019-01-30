@@ -1,2 +1,2 @@
 # software-engineering
-Progetto - ABAC Group
+Progetto
